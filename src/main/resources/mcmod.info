@@ -1,0 +1,16 @@
+[
+{
+  "modid": "happylifemod",
+  "name": "Happy Life",
+  "description": "Happy Mod adds many funny things.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WLH"],
+  "credits": "WLH made this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
