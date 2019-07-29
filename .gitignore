@@ -2,3 +2,6 @@
 /MinecraftClient
 /MinecraftServer
 /bin
+/.settings/
+.classpath
+.project
